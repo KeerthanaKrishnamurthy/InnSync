@@ -10,6 +10,8 @@ public class InnsyncApplication {
 		SpringApplication.run(InnsyncApplication.class, args);
 		System.out.println("Hello from main branch");
 		System.out.println("Welcome to our application!");
+
+		System.out.println("Commit 1 With Errors");
 	}
 
 }
