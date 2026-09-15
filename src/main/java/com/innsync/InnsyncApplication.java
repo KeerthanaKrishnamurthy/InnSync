@@ -11,7 +11,7 @@ public class InnsyncApplication {
 		System.out.println("Hello from main branch");
 		System.out.println("Welcome to our application!");
 
-		System.out.println("Commit 2 Without Errors");
+		System.out.println("Commit 3 With Errors");
 	}
 
 }
